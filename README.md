@@ -1,4 +1,4 @@
-# DSA Leetcode 150
+# DSA
 A collection of LeetCode questions that I solve
 
 <!---LeetCode Topics Start-->
