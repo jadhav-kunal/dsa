@@ -9,6 +9,7 @@ A collection of LeetCode questions that I solve
 | [0001-two-sum](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
