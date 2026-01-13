@@ -14,6 +14,7 @@ A collection of LeetCode questions that I solve
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions that I solve
 | [0001-two-sum](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
