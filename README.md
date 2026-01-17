@@ -29,6 +29,7 @@ A collection of LeetCode questions that I solve
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions that I solve
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
