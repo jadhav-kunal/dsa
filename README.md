@@ -13,6 +13,7 @@ A collection of LeetCode questions that I solve
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
