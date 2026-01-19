@@ -17,6 +17,7 @@ A collection of LeetCode questions that I solve
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions that I solve
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,14 +42,17 @@ A collection of LeetCode questions that I solve
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +73,16 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
