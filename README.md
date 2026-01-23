@@ -9,6 +9,7 @@ A collection of LeetCode questions that I solve
 | [0001-two-sum](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions that I solve
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions that I solve
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -91,4 +94,12 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
