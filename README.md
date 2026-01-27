@@ -7,6 +7,7 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions that I solve
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
