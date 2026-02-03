@@ -31,6 +31,7 @@ A collection of LeetCode questions that I solve
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -78,6 +79,7 @@ A collection of LeetCode questions that I solve
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
