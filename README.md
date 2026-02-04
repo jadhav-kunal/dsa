@@ -47,6 +47,7 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions that I solve
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions that I solve
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0242-valid-anagram) |
 ## Union-Find
