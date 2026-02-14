@@ -16,6 +16,7 @@ A collection of LeetCode questions that I solve
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions that I solve
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
