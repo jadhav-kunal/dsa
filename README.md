@@ -23,6 +23,7 @@ A collection of LeetCode questions that I solve
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,10 +114,12 @@ A collection of LeetCode questions that I solve
 | [0020-valid-parentheses](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
