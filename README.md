@@ -23,6 +23,7 @@ A collection of LeetCode questions that I solve
 | [0219-contains-duplicate-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
