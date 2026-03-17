@@ -17,6 +17,7 @@ A collection of LeetCode questions that I solve
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions that I solve
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0875-koko-eating-bananas) |
