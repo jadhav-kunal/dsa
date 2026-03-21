@@ -13,6 +13,7 @@ A collection of LeetCode questions that I solve
 | [0033-search-in-rotated-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions that I solve
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0704-binary-search) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions that I solve
 | ------- |
 | [0011-container-with-most-water](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
