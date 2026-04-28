@@ -145,9 +145,11 @@ A collection of LeetCode questions that I solve
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jadhav-kunal/dsa-leetcode-150/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
